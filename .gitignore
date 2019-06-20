@@ -1,0 +1,4 @@
+*.dat
+
+#Exculde our results 
+results/
